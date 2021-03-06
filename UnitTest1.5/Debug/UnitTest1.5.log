@@ -1,0 +1,5 @@
+﻿  UnitTest1.5.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\lab 1.5\Pair.cpp(17,5): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\UnitTest1.5\UnitTest1.5.cpp(19,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\Debug\UnitTest1.5.lib и объект C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\Debug\UnitTest1.5.exp
+  UnitTest1.5.vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\Debug\UnitTest1.5.dll

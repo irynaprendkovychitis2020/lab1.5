@@ -1,0 +1,12 @@
+﻿  lab 1.5.cpp
+  Pair.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\lab 1.5\Pair.cpp(17,5): warning C4804: <=: небезопасное использование типа "bool" в операции
+  Rational.cpp
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\lab 1.5\Rational.cpp(47,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\lab 1.5\Rational.cpp(48,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\lab 1.5\Rational.cpp(54,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\lab 1.5\Rational.cpp(55,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\lab 1.5\Rational.cpp(61,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\lab 1.5\Rational.cpp(62,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  lab 1.5.vcxproj -> C:\Users\computer\Desktop\2 семестр\ООП\лаб 1\lab 1.5 _\Debug\lab 1.5.exe
